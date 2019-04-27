@@ -32,8 +32,8 @@ destroy(this.cb_1)
 end on
 
 type cb_1 from commandbutton within windows2
-integer x = 480
-integer y = 392
+integer x = 37
+integer y = 368
 integer width = 402
 integer height = 112
 integer taborder = 10
@@ -43,6 +43,6 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "none"
+string text = "Marlon"
 end type
 
